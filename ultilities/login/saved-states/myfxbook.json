@@ -1,0 +1,276 @@
+{
+    "cookies": [
+        {
+            "name": "locale",
+            "value": "en",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1701852751.533259,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "JSESSIONID",
+            "value": "9DA888F58BB0FFB04CC8BB3E3F46D053",
+            "domain": "www.myfxbook.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "0dkqlptZxODSq.lNnVc9NyPX7KPLmuvpKbO7rHnHKGQ-1694076751-0-AQkBlXNdgmeDl9N8AEfFJL83iAj2haXKR3t/axAtq+ii2yCEDIem2opXhjUdJE4eWgqaKnNdWnFcbl/3/FpM6tA=",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1694078551.53353,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__gads",
+            "value": "ID=a25b75c3813b796a:T=1694076753:RT=1694076753:S=ALNI_Mbb8jPY7twUXQ2dBd5cQX5pxJlgMg",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1727772753,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "__gpi",
+            "value": "UID=00000c3da5851b4d:T=1694076753:RT=1694076753:S=ALNI_MZaTOTv0s31nbjBcoq9wrg5V4ayvQ",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1727772753,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUnsXX5act3ZWOMU7yVubfp8v9ltE0xdBb5h2IOvCNeCFNZ-WlqdfIyCjXgAhU4",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1728636753.284394,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "timezone",
+            "value": "7.0",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1725612770.949878,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "dst",
+            "value": "0",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1725612770.949909,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "toolbarWindow",
+            "value": "4",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1694940774.421021,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "lastVisitDate",
+            "value": "1",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1694077043.206933,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "fxsession",
+            "value": "11d386005d4c8521253cb0be488ce633a1de2244434e6b68dff9d0f29471f5223cfa056819df00d7b0197a07e022e3b182f2542a988c1a64cd7595ecf5243b8ebb07ff248be22e306eb9a448363b6acef2468cbeaf1dbf4ac7729c553307247a108df157659d597d63fa4fd29172a805c3ecc36bbe13116b2415df11bf5b8c6ab586c46a2859392b05a3d666369d9197dec912bae2753bc7aa22bffc23f7cbaa5cfaea48191a6cbe",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1701852770.949753,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "username",
+            "value": "hungnm17",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "email",
+            "value": "\"manhhung.dt6@gmail.com\"",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "calendar",
+            "value": "\"{\\\"importances\\\":[3,2],\\\"countries\\\":[],\\\"currencies\\\":[\\\"AUD\\\",\\\"CAD\\\",\\\"CHF\\\",\\\"CNY\\\",\\\"EUR\\\",\\\"GBP\\\",\\\"JPY\\\",\\\"NZD\\\",\\\"USD\\\"]}\"",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1725612770.949977,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "scb",
+            "value": "false",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1725612770.95,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "userPreferences",
+            "value": "\"{\\\"newsProviderCompanyOids\\\":\\\"16,1,2,6,7,10,11\\\"}\"",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1725612770.950024,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "uaf",
+            "value": "false",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "dwf",
+            "value": "\"1,5,48\"",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1694940771.580188,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "fxlogin",
+            "value": "1694076772432",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1694940772.575199,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.21420020.1694076773",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1694163173,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_gat_UA-7958280-1",
+            "value": "1",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1694076833,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga_NEYM3HGTRV",
+            "value": "GS1.2.1694076773.1.0.1694076773.0.0.0",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1728636773.656807,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga_LE2ZJBYJFE",
+            "value": "GS1.1.1694076753.1.1.1694076774.39.0.0",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1728636774.070077,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.1.605143713.1694076753",
+            "domain": ".myfxbook.com",
+            "path": "/",
+            "expires": 1728636774.070662,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "origins": [
+        {
+            "origin": "https://www.myfxbook.com",
+            "localStorage": [
+                {
+                    "name": "chatOpenDiscussionId",
+                    "value": ""
+                },
+                {
+                    "name": "symbolOidToNameMap",
+                    "value": "{\"1\":\"EURUSD\",\"2\":\"GBPUSD\",\"3\":\"USDJPY\",\"4\":\"GBPJPY\",\"5\":\"USDCAD\",\"6\":\"EURAUD\",\"7\":\"EURJPY\",\"8\":\"AUDCAD\",\"9\":\"AUDJPY\",\"10\":\"AUDNZD\",\"11\":\"AUDUSD\",\"12\":\"CADJPY\",\"13\":\"EURCAD\",\"14\":\"EURCHF\",\"15\":\"EURCZK\",\"17\":\"EURGBP\",\"18\":\"EURHUF\",\"19\":\"EURNOK\",\"20\":\"EURNZD\",\"21\":\"EURPLN\",\"22\":\"EURSEK\",\"23\":\"EURTRY\",\"24\":\"GBPCAD\",\"25\":\"GBPCHF\",\"26\":\"NZDCAD\",\"27\":\"NZDJPY\",\"28\":\"NZDUSD\",\"29\":\"USDCHF\",\"31\":\"USDCZK\",\"34\":\"USDHUF\",\"36\":\"USDMXN\",\"37\":\"USDNOK\",\"38\":\"USDPLN\",\"40\":\"USDSEK\",\"41\":\"USDSGD\",\"42\":\"USDTHB\",\"43\":\"USDTRY\",\"45\":\"USDZAR\",\"46\":\"CHFJPY\",\"47\":\"AUDCHF\",\"48\":\"GBPNZD\",\"49\":\"NZDCHF\",\"50\":\"XAGUSD\",\"51\":\"XAUUSD\",\"103\":\"CADCHF\",\"107\":\"GBPAUD\",\"131\":\"SGDJPY\",\"137\":\"GBPNOK\",\"1233\":\"EURZAR\",\"1234\":\"AUDSGD\",\"1236\":\"GBPSEK\",\"1245\":\"CHFSGD\",\"1246\":\"EURSGD\",\"1247\":\"GBPSGD\",\"1815\":\"XAUGBP\",\"1863\":\"NOKJPY\",\"1893\":\"ZARJPY\",\"2012\":\"GBPTRY\",\"2076\":\"USDRUB\",\"2090\":\"SEKJPY\",\"2114\":\"EURMXN\",\"2115\":\"XAUAUD\",\"2119\":\"XAUEUR\",\"2521\":\"XAUJPY\",\"2603\":\"XAUCHF\",\"2872\":\"GBPMXN\",\"3005\":\"XAGAUD\",\"3240\":\"NOKSEK\",\"3473\":\"XAGEUR\",\"5079\":\"XPTUSD\",\"5435\":\"XPDUSD\",\"5779\":\"USDCNH\",\"11817\":\"BTCUSD\",\"13745\":\"LTCUSD\",\"87770\":\"ETHUSD\",\"159484\":\"XRPUSD\",\"161523\":\"BCHUSD\",\"180388\":\"EOSUSD\",\"217545\":\"XLMUSD\",\"238006\":\"ADAUSD\",\"244239\":\"XTZUSD\",\"251689\":\"DASHUSD\",\"1366797\":\"DOTUSD\",\"1398989\":\"UNIUSD\",\"1451399\":\"DOGEUSD\",\"1515859\":\"LINKUSD\",\"1535804\":\"SOLUSD\",\"1536343\":\"MATICUSD\",\"1536451\":\"AVAXUSD\"}"
+                },
+                {
+                    "name": "translation",
+                    "value": "{\"version\":\"3.7.15.2\",\"en\":{\"tError\":\"Error\",\"tEconomicEventNotification\":\"Economic Event Notification\",\"tOpenTime\":\"Open time\",\"tConversationReported\":\"Conversation reported successfully.\",\"tAccount\":\"Account {0}\",\"tSendByTelegram\":\"Send by Telegram\",\"tCreatingYourDemoAccount\":\"Creating your demo account.<br/>This may take up to 30 seconds.\",\"tPaybackQuestionnaireGoToPaybackfx\":\"Go to Paybackfx.com\",\"tEnterReadOnlyPassword\":\"Please enter your read-only password.\",\"tStartBeforeEnd\":\"Starting date must be before ending date\",\"tMetatrader4BrokerIsntOnList\":\"If your MetaTrader 4 broker is not on the list<br> <a href=\\\"/contact\\\" class=\\\"underline\\\">please contact us</a>.\",\"tRemove\":\"Remove\",\"tAccountNumber\":\"Account Number{0}\",\"tRatingRequired\":\"Rating required\",\"tPleaseSelectYourCountry\":\"Please select your country.\",\"tJuly\":\"July\",\"tSwapWithRisk\":\"Swap with Risk\",\"tClose\":\"Close\",\"tPleaseSelectAtLeastOneConversation\":\"Please select at least one conversation.\",\"tXSecondsOneLetter\":\"{0}s\",\"tLessthan\":\"Less than\",\"tInGooglePlay\":\"in Google Play\",\"tCancel\":\"Cancel\",\"tXCountries\":\"{0} Countries\",\"tFeedUnsucscribe\":\"Unsubscribe from this feed\",\"tHoursAgo\":\"{0} hours ago\",\"tPleaseScheduleTheAlertBeforeTheEvent\":\"Please schedule the alert at least {0} {1} prior the event or <a class=\\\"underline open-notifications-dropdown\\\">change the notifications time setting</a>.\",\"tCategory\":\"Category\",\"tNoBrokers\":\"No brokers with better spreads\",\"tJune\":\"June\",\"tWhatIsAXRebateCalculator\":\"What is a {0} Rebate Calculator?\",\"tShareOnStocktwits\":\"Share on Stocktwits\",\"tPostReported\":\"Post reported. Thank you.\",\"tAccountSuspended\":\"Account suspended.\",\"tHowDidYouStartTradingForex\":\"How did you start trading forex?\",\"tPaymentRequestWasApprovedOrDisapproved\":\"A payment request I made was approved or disapproved\",\"tFindTheServerByGoingMetatrader\":\"Find the server by going to the login screen in MetaTrader:\",\"tVotedNo\":\"Voted No\",\"tTimeLeftDay\":\"{0} day\",\"tMinimalWidthSize\":\"Minimal width is {0}\",\"tSubscribe\":\"Subscribe\",\"tCustomMode\":\"Custom mode\",\"tSendByWhatsapp\":\"Send by Whatsapp\",\"tPaybackQuestionnaireWouldYouLikeToIncreaseProfit\":\"Would you like to increase the profit of your forex account?\",\"tClosePriceBetweenLowAndHigh\":\"Close price has to be between low value and high value.\",\"tMay\":\"May\",\"tXDaysXHoursXMinutesXSecondsOneLetter\":\"{0}d {1}h {2}m {3}s\",\"tremoveFromWatch\":\"Remove from watch\",\"tDays\":\"Days\",\"tClickOkToCreateTheAccountAndContinueToBrokerAutotrade\":\"Click &#39;Ok&#39; to create the account and continue to {0} AutoTrade\",\"tAccountRemovedFromComparison\":\"Account removed from comparison\",\"tPleaseEnterValidPhone\":\"Please enter valid phone number\",\"tShowLess\":\"Show Less\",\"tConfirmTagDelete\":\"Are you sure you want to delete the tag?\",\"tMarch\":\"March\",\"tSuccessfullyUploaded\":\"successfully uploaded.\",\"tDoesXForexRebateIncreaseMyTradingConditions\":\"Does {0}Forex Rebate increase my trading conditions?\",\"tAccountNumberSwitched\":\"Account number switched\",\"tEventEmailNotification\":\"Event Email Notification\",\"tSetDefaultMagicsToShowInYourGrowthBalanceChart\":\"Set default magics to show in your growth/balance chart.\",\"tTiming\":\"Timing\",\"tUserUnblocked\":\"User unblocked\",\"tABetterThan\":\"A better than\",\"tCreateAlert\":\"Create alert\",\"tMedium\":\"Medium\",\"tChartAlert\":\"Chart Alert\",\"tYouHaveUnsubscribedToConversation\":\"You have unsubscribed from this conversation.\",\"tOutlook\":\"Sentiment\",\"tCopy\":\"Copy\",\"tEditAlert\":\"Edit alert\",\"tTimeLeftHMinAgo\":\"{0}h {1}min ago\",\"tXRebateCalculator\":\"{0} Rebate Calculator\",\"tYouAreNowSubscribedToThisChart\":\"You are now subscribed to this chart.\",\"tClosesIn\":\"closes in\",\"tUnsubscribeFromTopicInOrderTo\":\"Unsubscribe in order to stop receiving email notifications for this topic.\",\"tUnsubscribeInOrderTo\":\"Unsubscribe in order to stop receiving email notifications for this conversation.\",\"tCheckYourEmailCsvFile\":\"Please check your email for the csv file.\",\"tStartTypingUsername\":\"Start typing a user&#39;s name, then select it from the dropdown.\",\"tStrategyName\":\"Strategy name\",\"tWhatIsXForexCashback\":\"What is {0}Forex Cashback?\",\"tBetween\":\"between {0} and  {1}\",\"tYouAreNowSubscribedToConversation\":\"You are now subscribed to this conversation.\",\"tMyfxbookAddsNewContest\":\"Myfxbook adds a new contest\",\"tGeneralError\":\"General error\",\"tUnitedKingdom\":\"United Kingdom\",\"tBestValueInThe\":\"Best value in the row is highlighted in green.\",\"tAnErrorOccurredAndTheUploadFailed\":\"An error occurred and the upload failed.\",\"tCalculators\":\"Calculators\",\"tConvertXToMajors\":\"Convert {0} to Majors\",\"tAll\":\"All\",\"tLoadingPleaseWait\":\"Loading, please wait...\",\"tNew\":\"New\",\"tSelectAMonth\":\"Please select a month.\",\"tThanksForYourVouch\":\"Thanks for your vouch!\",\"tSearchPhraseMustContain3Char\":\"Search phrase must contain at least 3 characters.\",\"tLearnMore\":\"Learn more\",\"tAWorseThan\":\"A worse than\",\"tChangePassword\":\"Change password\",\"tChooseFile\":\"Choose File\",\"tGotIt\":\"Got it!\",\"tPleaseChangeYourInvestorPassword\":\"Please change your investor password to the one shown here, so we can verify you have trading privileges for the account in question.<br/><br/>After changing the investor password for your MetaTrader 4 account, please update the &#39;Investor Password&#39; field above, and click the &#39;Connect&#39; button to complete the verification.\",\"tPerformanceDataIsOfTheForwardTest\":\"Performance data is of the forward test\",\"tUpgradeYourAccountNowAndViewStatisticsInRealTime\":\"Upgrade your account now and view statistics in real-time.\",\"tDecember\":\"December\",\"tPleaseEnterAComment\":\"Please enter a comment.\",\"tHours\":\"Hours\",\"tPhoneVerificationRequestsReached\":\"Max code verification requests reached\",\"tHistoryIsPrivate\":\"History is private\",\"tProfitCalculator\":\"{0} Profit Calculator\",\"tExposureIsPrivate\":\"Exposure is private.\",\"tCompareSystemRemoved\":\"System removed from comparison.\",\"tMaximalNumberIs\":\"Maximal number is {0}\",\"tOpenOrdersArePrivate\":\"Open orders are private.\",\"tLoginInOrderToRate\":\"Please login to rate\",\"tTicket\":\"Ticket\",\"tAutoRenewCancelled\":\"Auto renew cancelled\",\"tSeptember\":\"September\",\"tLastBid\":\"Last (Bid)\",\"tTimeLeftMin\":\"{0} min\",\"tLive\":\"Live\",\"tPhoneVerificationSent\":\"Phone verification code has been sent\",\"tNegative\":\"Negative\",\"tAddYourReply\":\"Add Your Reply\",\"tSearchCountries\":\"Search Countries\",\"tStartingDownload\":\"Starting download\",\"tAXRebateCalculatorWillEasilyIllustrateTheAmountOfProfitOr\":\"A {0} rebate calculator will easily illustrate the amount of profit or savings you can based on your trading activity.\",\"tYouMustEnterValidNumber\":\"You must enter a valid  number.\",\"tSendByEmail\":\"Send by Email\",\"tQrCodeMustContainXDigits\":\"\",\"tWorstValueInThe\":\"Worst value in the row is highlighted in red.\",\"tMyAccountNotificationIsTriggered\":\"My accounts or watched accounts notification is triggered\",\"tShareOnTwitter\":\"Share on Twitter\",\"tUnitedStates\":\"United States\",\"tDelete\":\"Delete\",\"tCommentLong\":\"You can enter up to 255 characters.\",\"tPublished\":\"Published\",\"tCloseTime\":\"Close time\",\"tPaybackQuestionnaireWhichCashbackServiceAreYouUsing\":\"Can you please tell us which Cashback service you are using?\",\"tXLots\":\"{0} lots\",\"tTopicUnsubscribe\":\"Unsubscribe from this topic\",\"tToSeeTheSystemPleaseGoHere\":\"To see the system, please go here:\",\"tRiskRatio\":\"Risk Ratio, %{0}\",\"tTemplateMode\":\"Template mode\",\"tMyAutotradeRequestHasBeenReviewed\":\"My AutoTrade request has been reviewed\",\"tShareOnFacebook\":\"Share on Facebook\",\"tTradeType\":\"Trade type\",\"tEnterNameForYourSystem\":\"Please enter a name for your system, with at least 3 characters.\",\"tMyAutotradeDemoAccountsExpire\":\"My AutoTrade demo accounts expire\",\"tTheNameFieldIsBlockedPublic\":\"Once the system is made public, you cannot change its name.\",\"tArePrivate\":\"{0} are private.\",\"tSwitchAccountLimitReached\":\"You have reached the switch account limit, please try again later.\",\"tHowToUseTheForexRebateCalculator\":\"How to use the Forex Rebate Calculator?\",\"tJanuary\":\"January\",\"tSubmit\":\"Submit\",\"tNotificationActive\":\"Notification is active.\",\"tReviewScorePopover\":\"{0} score is {1}\",\"tLiveNotifications\":\"Live Notifications\",\"tRemovedSuccessfully\":\"Removed successfully\",\"tPleaseEnterAnOpenPriceToCalculateDemarksPivotPoints\":\"Please enter an open price to calculate DeMarks Pivot Points\",\"tAttachments\":\"Attachments{0}\",\"tMyMarketNotificationIsTriggered\":\"My market notification is triggered\",\"tBuy\":\"Buy\",\"tTotalMonthly\":\"Total Monthly\",\"tNovember\":\"November\",\"tMaxDigits\":\"Maximal digits number is {0}\",\"tNo\":\"No\",\"tPatternNotification\":\"{0} Pattern Notification\",\"tInvalidEmail\":\"You have entered an invalid email.\",\"tSystemComparisonScreen\":\"The system comparison screen will include the systems in your portfolio.\",\"tXUsers\":\"{0} Users\",\"tNetProfit\":\"Net Profit\",\"tWhatIsAForexRebateCalculator\":\"What is a Forex Rebate Calculator?\",\"tNewTechnicalAnalysisAvailable\":\"New Technical analysis patterns are available\",\"tMarginCalculator\":\"{0} Margin Calculator\",\"tXMinutesXSecondsOneLetter\":\"{0}m {1}s\",\"tCurrentTime\":\"Current Time\",\"tXHoursXMinutesXSecondsOneLetter\":\"{0}h {1}m {2}s\",\"tMinutes\":\"Minutes\",\"tMoneyCurrency\":\"Money, {0}{1}\",\"tChooseStrategy\":\"You must choose your strategy.\",\"tCurrentOpenMarketsUpdatedInRealtime\":\"Current open markets, updated in real time. Time bar progresses from right to left.\",\"tAForexRebateCalculatorWillEasilyIllustrateTheAmountOfProfitOr\":\"A Forex rebate calculator will easily illustrate the amount of profit or savings you can based on your trading activity.\",\"tUnits\":\"Units\",\"tRevised\":\"Revised\",\"tPleaseEnterYourAccountNumber\":\"Please enter your account number. Only numbers are allowed.\",\"tMessage102\":\"Unfortunately, this contest isn\\\\'t available for your country.\",\"tAmomentAgo\":\"a moment ago\",\"tCurrency\":\"Currency\",\"tCustomAnalysis\":\"Custom Analysis\",\"tShowActualGrowth\":\"Show actual growth.\",\"tUnblockUser\":\"Unblock User\",\"tPleaseEnterName\":\"Please enter a name.\",\"tSuccessfullySaved\":\"Successfully saved\",\"tInvestorPasswordReadOnly\":\"The investor password is a read-only access password to your account.<br/><br/>- If you&#39;re not sure of your investor password, you can reset it from your MetaTrader by going to Tools > Options > Change (Server tab).<br/><br/>- If an investor password isn&#39;t available for your account, we will not be able to verify your track record nor trading privileges.\",\"tMaxTagNameExceeded\":\"Max tag name exceeded. <br> The limit is 20 chars.\",\"tMinimalAlert\":\"Minimal alert time is 10 minutes\",\"tEmailsTypes\":\"Emails Types:\",\"tSelect1System\":\"Please select at least one system\",\"tThisServiceIsCurrentlyUnavailableInYourCountry\":\"This service is currently unavailable in your country.\",\"tNoTwitterActive\":\"You haven&#39;t activated twitter connection yet.\",\"tMessagesMarkedAsRead\":\"{0} marked as read\",\"tCalendarSearchPlaceholder\":\"Search by event name, currency, country and impact\",\"tConnectedSuccessfully\":\"connected successfully\",\"tXHoursXMinutesOneLetter\":\"{0}h {1}m\",\"tPasswordUpdated\":\"Password updated.\",\"tJapan\":\"Japan\",\"tRegisteredMembersArea\":\"Registered members area\",\"tAsecondAgo\":\"a second ago\",\"tHighValueMustBeHigherThanLowValue\":\"High Value must be higher than low value\",\"tUnsubscribeFromConversation\":\"Unsubscribe From Conversation\",\"tImpact\":\"Impact\",\"tYouMustSetYourStrategyPublic\":\"You must set your strategy public to enable this feature.\",\"tSeconds\":\"Seconds\",\"tCopiedClipboard\":\"Copied to clipboard.\",\"tAccountAlreadyHaveSubscription\":\"Account already have subscription.\",\"tChange\":\"Change {0}\",\"tTimeLeftDayAgo\":\"{0} day ago\",\"tYouMustSetYourAccountPublicToEnableThisFeature\":\"You must set your account public to enable this feature.\",\"tInvalidLogin\":\"Invalid Login Details\",\"tFeatureAvailableToLoggedInUsers\":\"This feature is available to logged in users only.\",\"tTheSpecifiedSearchIsTooLongPleaseSpecifyShorterSearchString\":\"The specified search is too long. Please specify a shorter search string.\",\"tPleaseContactSupportForAnyChanges\":\"Please contact support for any changes.\",\"tYouAgreedWithTheChart\":\"You agreed with the chart\",\"tDeleteItConfirm\":\"Are you sure you want to delete it?\",\"tSetRemoveTheDefaultCustomStartDate\":\"Set/Remove the default custom start date.\",\"tGoToAUsersPageAndClickAddContact\":\"Go to a user&#39;s page and click &#39;Add Contact&#39;. Once request is approved, you can chat in real time!\",\"tNotificationNotActive\":\"Notification is not active.\",\"tFileTypeNotAllowed\":\"File type not allowed.\",\"tBelow\":\"Below\",\"tAsExpected\":\"As Expected\",\"tPositive\":\"Positive\",\"tYes\":\"Yes\",\"tUpgradeNow\":\"Upgrade Now\",\"tMyAccountFoundSuitableForAutotrade\":\"My account was found as suitable for autotrade\",\"tYoureEditingProductSubscriptionForAccount\":\"You&#39;re editing {0} subscription for account number {1}\",\"tClickSaveToApplyTheNewAvatar\":\"Click &#39;Save&#39; to apply the new avatar.\",\"tOpenPriceBetweenLowAndHigh\":\"Open price have to be Between low value - high value.\",\"tBack\":\"Back\",\"tEnterEnglishOnly\":\"Please enter English letters only.\",\"tInvalidPassword\":\"You have entered an invalid password. Please use 4-20 characters.\",\"tMustEnterPassword\":\"You must enter your password.\",\"tSystemIsAvailableForCopyWithSignals\":\"System is available for copy with Signal Start after my request\",\"tMinimalSize\":\"Minimal size is {0}\",\"tClickOnTheIconToSetNotification\":\"Click on the icon to set an email notification for the event in question.\",\"tBroker\":\"Broker{0}\",\"tCurrencyConverter\":\"Currency Converter\",\"tPaybackQuestionnaireThatMakesUsSad\":\"That makes us sad,<br/><b>Paybackfx clients save on average 30%</b> off the commission and spreads costs.<br/><span>It is a completely free service and takes a minute to sign up.</span>\",\"tChooseBroker\":\"You must choose a broker.\",\"tDuration\":\"Duration\",\"tSelectedTime\":\"Selected time\",\"tTimeLeftHMin\":\"{0}h {1}min\",\"tareYouSureYouWantToRemoveAccount\":\"Are you sure you want to remove account?\",\"tUrlsAreNotAllowed\":\"Urls are not allowed.\",\"tSystemNameTooLong\":\"Please note that system&#39;s name must not be longer than 45 characters.\",\"tSystemDescription\":\"System Description\",\"tCancelled\":\"Cancelled\",\"tDisconnected\":\"Disconnected\",\"tNoTextEntered\":\"You did not enter any text or files.\",\"tPaybackQuestionnaireDoYouUseCashbackService\":\"Do you use any cashback service?\",\"tPleaseEnterNumberAbove\":\"Please enter a number above {0}.\",\"tShowMore\":\"Show More\",\"tPleaseProvideRating\":\"Please provide a rating\",\"tMaxNumberOfColumns\":\"You can select up to {0} columns.\",\"tFieldRequired\":\"Required Field\",\"tOnceEnabledDataBeforeTheCustomStartDate\":\"Once enabled, data before the custom start date will be excluded from the statistics by default.\",\"tTotalDaily\":\"Total Daily\",\"tPaybackQuestionnaireThanksForFeedback\":\"That&#39;s great! Thanks for the feedback!\",\"tUserBlocked\":\"User blocked\",\"tTradingPrivilegesAuthorization\":\"Trading Privileges Authorization\",\"tAccountStatementsArePrivate\":\"Account statements are private.\",\"tServerError\":\"Server error\",\"tChanceLosingAccount\":\"There is a {0} chance of losing {1} of the account. This will require {2} consecutive losing trades.\",\"tDayOfWeek\":\"Day of Week {0}\",\"tAbove\":\"Above\",\"tPaybackQuestionnaireDoYouKnowWeHaveOurOwn\":\"<b>Do you know we have our own Cashback service called Paybackfx?</b><br/><br/>Paybackfx is the best in the industry with top cashback levels.<br/> It pays on average <b>over 30% more</b> than the competitors with unique features like real-time reports and quick withdrawals.<br/><br/><b>Would you like to check it out?</b>\",\"tMinutesAgo\":\"{0} minutes  ago\",\"tNegativeBalanceReached\":\"Negative balance reached. Please set a higher custom deposit.\",\"tChooseAccountType\":\"Please select account type\",\"tAugust\":\"August\",\"tVotedYes\":\"Voted Yes\",\"tToSeeThePagePleaseGoHere\":\"To see the , please go here:{1}\",\"tThisWebSiteUsesCookies\":\"This website uses cookies to ensure you get the best experience on our website.\",\"tOpen\":\"Open\",\"tInOrderToApplyToAutotradePleaseCheck\":\"In order to apply to AutoTrade, please check the box to make your account public.\",\"tSecondsAgo\":\"{0} seconds ago\",\"tTheContestHasEnded\":\"The contest has ended.\",\"tCommentError\":\"Comment error - Please check propriety of fields.\",\"tWeHaveReceivedYourRequestAndYourUserAccountIsDeleted\":\"We have received your request and your user account is deleted.\",\"tAlreadyDefaultMagicsAreInBold\":\"Already default magics are in bold.\",\"tExclusiveOffersForMyfxbookMembers\":\"Exclusive offers for Myfxbook members\",\"tConfirmProfileDelete\":\"Are you sure you want to delete the profile?\",\"tCurrentSearchSettings\":\"Current search settings\",\"tCheckOutMyTradingSystem\":\"Check out my trading system\",\"tYouAlreadyReportedThisContent\":\"You&#39;ve already reported this content\",\"tCannotUndo\":\"You cannot undo this step!\",\"tPostDeleted\":\"Post deleted\",\"tErrorPromotionWasNotSaved\":\"Error promotion was not saved\",\"tXY\":\"{0}{1}\",\"tLow\":\"Low\",\"tInvestorPasswordReadOnlyPublisherEA\":\"The investor password is a read-only access password to your account.<br/><br/>- If you&#39;re not sure what&#39;s your investor password, you can reset it from your MetaTrader by going to Tools > Options > Change (Server tab).<br/><br/>- If an investor password isn&#39;t available for your account, then yout&#39;ll be required to use either the <a href=\\\"/help/metatrader-wizard\\\" class=\\\"underline\\\">Publisher or our EA</a>\",\"tPaybackQuestionnaireGreatGoToPaybackfx\":\"That&#39;s great,<br/> Please go over to our Paybackfx website to start getting cashback for your trades\",\"tSearchCurrencies\":\"Search Currencies\",\"tTimeLeftDays\":\"{0} days\",\"tPreviousLiquidity\":\"Previous Liquidity\",\"tInTheAppStore\":\"in the App Store\",\"tAttachYourAccountToChart\":\"Attach your verified trading account to see closed and opened trades on the chart in real-time.<br/>(A maximum of 10 trades per price bar).\",\"tMaxNumberOfAlerts\":\"You can have up to {0} alerts for each symbol.\",\"tOneHourAgo\":\"1 Hour ago\",\"tPhoneNumberIsNotValidOrNotMobile\":\"Phone number is not valid or not mobile.\",\"tCommunityOutlookNotification\":\"Community Outlook notification\",\"tEnterTitleName\":\"Please enter a title name, with at least 3 characters.\",\"tYouMustBeLoggedIn\":\"You must be logged in to use this feature.\",\"tYourMetatrader4AccountNumber\":\"Your MetaTrader 4 account number.\",\"tYourCommentIsEmpty\":\"Please enter your watch comments (or attach any related files) here. Watch comments are private and visible only to you!\",\"tSave\":\"Save\",\"tVerificationCodeIsEmpty\":\"Verification code is empty.\",\"tMarketNotification\":\"Market Notification\",\"tSwitched\":\"Switched\",\"tAttachAccount\":\"Attach account\",\"tFileSizeIsOver\":\"File size is over\",\"tOneMinuteAgo\":\"1 minute ago\",\"tLess\":\"Less\",\"tOpensIn\":\"opens in\",\"tComment\":\"Comment{0}\",\"tSwap\":\"Swap {0}\",\"tTag\":\"Tag\",\"tMessages\":\"Messages\",\"tXToY\":\"{0} {1} to {2}\",\"tCommissions\":\"Commissions{0}\",\"tHigh\":\"High\",\"tMinimalHeightSize\":\"Minimal height is {0}\",\"tMinimalNumberIs\":\"Minimal number is {0}\",\"taddToWatch\":\"Add to watch\",\"tPendingConection\":\"Pending Connection\",\"tTextContainsInvalidChar\":\"Please note that your text contains un-supported characters.\",\"tIReceiveContactRequest\":\"I receive contact request\",\"tWillBeShownInYourUserpage\":\"Will be shown in your userpage, and as a signature with your posts.\",\"tEmailAddressIsAlreadyRegistered\":\"Email address is already registered, please use a different Email\",\"tStrategyNameTooLong\":\"Please note that strategy&#39;s name must not be longer than 45 characters.\",\"tPleaseSelect\":\"Please select\",\"tYouDisagreedWithTheChart\":\"You disagreed with the chart\",\"tNotificationTipClickOnIcon\":\"Click on the icon to set an email notification for the event in question.\",\"tAccountName\":\"Account Name{0}\",\"tCheckOutThePageOnMyfxbookCom\":\"Check out the {0} on Myfxbook.com {1}\",\"tEditYourComment\":\"Edit Your Comment\",\"tSinceThisSystemIsAnAutotradeProviderThisFeatureIsDisabled\":\"Since this system is an AutoTrade provider, this feature is disabled.\",\"tMorethan\":\"more than\",\"tYourMetatrader5AccountNumber\":\"Your MetaTrader 5 account number.\",\"tBySubscribingToThisTopic\":\"By subscribing to this topic you are turning on the email notifications for new posts in this topic.\",\"tPips\":\"Pips{0}\",\"tMessage\":\"Message\",\"tSubscribeToChart\":\"Subscribe to chart\",\"tEnableLiveNotificationsOfEvents\":\"Enable live notification of events as they happen on every page you browse on Myfxbook.\",\"tCountry\":\"Country\",\"tCustomStartSet\":\"Custom start set to {0}\",\"tLiveUpdateTooltipDescription\":\"When an account is connected with Live update, all orders, trades and statistics are calculated and reported in real-time.\",\"tApply\":\"Apply\",\"tSelectTimeFrame\":\"Please select time frame\",\"tMyAutotradeAccountEligibility\":\"My AutoTrade account eligibility\",\"tDownload\":\"Download\",\"tWeightedAverage\":\"Weighted average\",\"tUnitConvertComparison\":\"1 {0} = {1} {2}\",\"tWaitUpload\":\"Please wait until upload is completed\",\"tWantYourNameToBeDisplayedInsteadOfYourUserName\":\"Want your name to be displayed instead of your user name? Enter it here!\",\"tPositionSizeCalculator\":\"{0} Position Size Calculator\",\"tChangePhone\":\"Change Phone\",\"tOpenCloseSymbolCharts\":\"Open/Close all symbol charts.\",\"tExpectedResult\":\"{0} expected result\",\"tMetatrader5BrokerIsntOnList\":\"If your MetaTrader 5 broker is not on the list<br> <a href=\\\"/contact\\\" class=\\\"underline\\\">please contact us</a>.\",\"tPageTitleCurrencyConverter\":\"{0} {1} to {2} | Convert {3} to {4} | Currency Converter\",\"tSwapWithMoney\":\"Swap with Money\",\"tMaxThreeMonths\":\"Max range 3 months\",\"tAutoRenew\":\"Auto Renew\",\"tBySubscribingToThisConversation\":\"By subscribing to this conversation you are turning on the email notifications for private messages.\",\"tRevisedFromAPreviousValueOf\":\"Revised from a previous value of {0}\",\"tInvestorPassword\":\"Investor password{0}\",\"tAustralia\":\"Australia\",\"tCustomStart\":\"Custom Start\",\"tHighPriceMustBeHigherThenLow\":\"High price must be higher than low price.\",\"tFebruary\":\"February\",\"tYouCanOnlyActivateLiveUpdate\":\"Live updates are available for EA and Auto Update accounts. If your account is updating using a publisher, please add it as a new account.\",\"tYouMustEnterValidPositiveNumber\":\"You must enter a valid positive number.\",\"tOpenPrice\":\"Open Price{0}\",\"tCurrentLiquidity\":\"Current Liquidity:\",\"tAccountNameAsWillBeShown\":\"The account name, as will be shown in your Myfxbook portfolio (can be changed at any time).\",\"tSubscriptionAccountSwitched\":\"Subscription account switched.\",\"tOurXRebateCalculatorWillCalculate\":\"Our {0} Rebate Calculator will calculate the cashback amount in money terms, based on your trading activity with your broker.\",\"tHowToUseTheXRebateCalculator\":\"How to use the {0} Rebate Calculator?\",\"tDefaultMagics\":\"Default Magics\",\"tDataRequestedSuccessfully\":\"Data requested successfully.<br/>When your data will be ready for download you will be notified by email.\",\"tYouAlreadyHaveSubscriptionForThisAccount\":\"You already have a subscription for this account\",\"tAction\":\"Action\",\"tPleaseSelectLanguage\":\"Please select a language.\",\"tPublishYourChart\":\"Publish your chart to share it with the Myfxbook community and make it public. After publication, others can follow, discuss and analyze it in real-time!\",\"tYouCantUploadMoreFiles\":\"You can not upload any more files.\",\"tCheckOutTheSystemOnMyfxbookCom\":\"Check out the {0} system on Myfxbook.com {1}\",\"tChooseSeveralRecipients\":\"Choose several recipients to create a private discussion. You are allowed to choose up to 10 different recipients.\",\"tPleaseRegisterToEnter\":\"Please register to enter. Registration is free and takes less than a minute!\",\"tWhatsYourTradingStyle\":\"What&#39;s your trading style? What tools do you use?\",\"tMaximalHeightSize\":\"Maximal height is {0}\",\"tChoosePlatform\":\"You must choose a platform.\",\"tLiveMarketsInfo\":\"Live Markets Info\",\"tPleaseSelectTheStartAndEndDateInTheRange3Month\":\"Maximal range for search is 3 months\",\"tNone\":\"None\",\"tNoDataToDisplay\":\"No data to display\",\"tOurForexRebateCalculatorWillCalculate\":\"Our Forex Rebate Calculator will calculate the cashback amount in money terms, based on your trading activity with your broker.\",\"tFeedSubscribe\":\"Subscribe to feed\",\"tTheNameFieldIsBlocked\":\"The name field is blocked since the system participates in the AutoTrade program. To change it, please contact us.\",\"tLots\":\"Lots\",\"tChartDeleted\":\"Chart deleted.\",\"tPleaseSelectBroker\":\"Please select a Broker\",\"tInOrderToSubmitAReview\":\"You must have an active trading account connected to Myfxbook in order to create a review.\",\"tPromotionSavedSuccessfully\":\"Promotion saved successfully\",\"tOctober\":\"October\",\"tCompareSystemAdded\":\"System added to comparison.\",\"tThankYou\":\"Thank you\",\"tSelectSymbol\":\"Please select symbol\",\"tMaximalWidthSize\":\"Maximal width is {0}\",\"tBlockUser\":\"Block User\",\"tChangeEmail\":\"Change Email\",\"tYouAlreadyHaveADemoAccount\":\"You already have a demo account. If you wish to open a new demo account, please delete the existing one.\",\"tChooseServer\":\"You must choose a server.\",\"tForexRebateCalculator\":\"Forex Rebate Calculator\",\"tFieldMustContainOnlyLettersNumbersSpacesBeteenXToYCharacters\":\"{0} must contain only letters, numbers and spaces between {1}-{2} characters.\",\"tMore\":\"More\",\"tServer\":\"Server{0}\",\"tSell\":\"Sell\",\"tComparisonList\":\"The comparison list is based on your watchlist.\",\"tEnterValidName\":\"Urls are not allowed as systems names, please enter a valid name.\",\"tMaximalSize\":\"Maximal size is {0}\",\"tEvent\":\"Event\",\"tUnableToUploadFile\":\"Unable to upload file.\",\"tClosePrice\":\"Close Price{0}\",\"tLoading\":\"Loading...\",\"tSettingsSaved\":\"Settings saved.\",\"tPleaseEnterNumberBetween\":\"Please enter a number between {0} and {1}.\",\"tTopicSubscribe\":\"Subscribe to this topic\",\"tChatNewMessage\":\"New Message!\",\"tUnSubscribe\":\"Unsubscribe\",\"tUpcomingMarketEvents\":\"Upcoming market events. Pay attention to the time left for an event.\",\"tFree\":\"Free\",\"tTellTheCommunityALittleAboutYourself\":\"Tell the community a little about yourself.\",\"tContestEndsIn\":\"Contest ends in\",\"tToggleBetweenLotsUnits\":\"Toggle between lots and units.<br />1 lot = 100,000 units\",\"tPleaseLoginToUseFeature\":\"Please login to use this feature.\",\"tPleaseEnterPasswordWithoutSpaces\":\"Please enter password without spaces.\",\"tEnterMessage\":\"Please enter your message.\",\"tTrade\":\"Trade\",\"tTimeLeftSeconds\":\"{0} seconds\",\"tCommentSuccessfullySaved\":\"Comment successfully saved\",\"tName\":\"Name{0}\",\"tXDaysOneLetter\":\"{0}d\",\"tYouHaveUnsubscribedToChart\":\"You have unsubscribed from this chart.\",\"tOpensAt\":\"Opens at\",\"tEnterNameAtLeast3Char\":\"Please enter a name with at least 3 characters.\",\"tClosesAt\":\"Closes at\",\"tMyCommunityOutlookNotificationIsTriggered\":\"My Community outlook notification is triggered\",\"tTakeProfit\":\"Take-Profit\",\"tNoCharts\":\"No charts\",\"tConvertXToY\":\"Convert {0} {1} to {2}\",\"tMaxNumberOfSymbols\":\"You can select up to {0} symbols.\",\"tTimeLeftDaysAgo\":\"{0} days ago\",\"tYouDoNotHaveAnyContactsYet\":\"You do not have any contacts yet.\",\"tPipCalculator\":\"{0} Pip Calculator\",\"tPasswordNoMatch\":\"Your passwords do not match.\",\"tMyDemoAccountsPerformWell\":\"My demo accounts perform well\",\"tHoverOverTheDesired\":\"Hover over the desired column for a detailed explanation.\",\"tPleaseEnteraValidUrl\":\"Please enter a valid URL\",\"tMagic\":\"Magic\",\"tActual\":\"Actual\",\"tConfirmChartDelete\":\"Are you sure you want to delete the chart?\",\"tAs\":\"As\",\"tPleaseFillTheField\":\"Please fill in all the required fields\",\"tApril\":\"April\",\"tLeverageCalculator\":\"{0} Leverage Calculator\",\"tClosed\":\"Closed\",\"tToRemindYou1Minute\":\"To remind you, 1 minute before each of the scheduled events, the event will start blinking.\",\"tUsersAreWaitingToCopyMyAccountWithSignals\":\"Users are waiting to copy my account with Signal Start\",\"tConnectingAccount\":\"Connecting to your account\",\"tAbsolute\":\"Absolute\",\"tStopLoss\":\"Stop-Loss\",\"tHourOfDay\":\"Hour of Day {0}\",\"tWhatIsTheBestXForexRebateProvider\":\"What is the best {0}Forex Rebate Provider?\",\"tNews\":\"News\",\"tSubscribeToConversation\":\"Subscribe To Conversation\",\"tCalendar\":\"Calendar\",\"tPleaseUseNumberOnly\":\"Please use numbers only.\",\"tChangesSavedSuccessfully\":\"Changes saved successfully\",\"tMyContactRequestApproved\":\"Contact Request Approved\",\"tAllOrdersTradesStatisticsCalculatedReportedRealTime\":\"When an account is connected with Live update, all orders, trades and statistics are calculated and reported in real-time.\",\"t1Country\":\"1 Country\",\"tSearchProfileLoaded\":\"Search profile {0} loaded\",\"tXMinutesOneLetter\":\"{0}m\",\"tSymbol\":\"Symbol\",\"tLiveCalendarEvents\":\"Live Calendar Events\"}}"
+                }
+            ]
+        },
+        {
+            "origin": "https://www.google.com",
+            "localStorage": [
+                {
+                    "name": "rc::a",
+                    "value": "MTFscDJnaDFqaG5yanY="
+                },
+                {
+                    "name": "rc::h",
+                    "value": "1694076754475"
+                }
+            ]
+        }
+    ]
+}
