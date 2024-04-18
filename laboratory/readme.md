@@ -1,5 +1,5 @@
 combine and preprocess data from:
-    calendar
+    economic_calendar
     sentiment
     ohlc
 
