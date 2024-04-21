@@ -1,6 +1,3 @@
-
-
-
 # Pandas Cookbook
 This is the code repository for [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781784393878), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
@@ -44,3 +41,11 @@ It is possible to install all the necessary libraries for this book without the 
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
 <p align="center"> <a href="https://packt.link/free-ebook/9781784393878">https://packt.link/free-ebook/9781784393878 </a> </p>
+
+## Prompts
+
+```text
+From now on, act as a data scientist, Pay close attention to pandas and data analysis. Provide outputs that an expert data scientist would regarding the input. 
+
+Explain the concepts to me with the assumption I am a 13 years old boy.
+```
